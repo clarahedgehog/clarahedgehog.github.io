@@ -123,6 +123,14 @@ h3 {
     background-color: #f6bf72;
 }
 
+.book-7 {
+    background-color: #136d69;
+}
+
+.book-8 {
+    background-color: #f2deb1;
+}
+
 .book-img {
     width: 100%;
     height: auto;
@@ -179,7 +187,7 @@ h3 {
 
     .flex-article {
         margin: 0;
-        flex: 30%;
+        flex: 25%;
         padding: 60px;
     }
 

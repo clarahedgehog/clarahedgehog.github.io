@@ -31,23 +31,23 @@ body {
 }
 
 .menu {
-  background-color: #f1efed;
-  display: flex;
-  flex-direction: column;
+    background-color: #f1efed;
+    display: flex;
+    flex-direction: column;
 }
 
 .menu__item {
-  background-color: #f1efed;
-  color: #323232;
-  padding: 8px 0 8px;
-  text-decoration: none;
+    background-color: #f1efed;
+    color: #323232;
+    padding: 8px 0 8px;
+    text-decoration: none;
 }
 
 .menu__item:hover {
-  background-color: #f1efed;
-  color: #151515;
-  text-decoration: underline #151515;
-  text-underline-offset: 10px;
+    background-color: #f1efed;
+    color: #151515;
+    text-decoration: underline #151515;
+    text-underline-offset: 10px;
 }
 
 .framer {
@@ -86,8 +86,8 @@ h3 {
     padding: 16px;
 }
 
-.article-text { 
-    background-color: #f1efed; 
+.article-text {
+    background-color: #f1efed;
     font-size: 1rem;
     padding: 16px;
     border-bottom: 2px solid black;
@@ -113,7 +113,7 @@ h3 {
 
 .book-4 {
     background: #25234A;
-    background: linear-gradient(9deg,rgba(33, 31, 69, 1) 0%, rgba(225, 24, 19, 1) 50%, rgba(242, 221, 82, 1) 100%);
+    background: linear-gradient(9deg, rgba(33, 31, 69, 1) 0%, rgba(225, 24, 19, 1) 50%, rgba(242, 221, 82, 1) 100%);
 }
 
 .book-5 {
@@ -122,6 +122,14 @@ h3 {
 
 .book-6 {
     background-color: #f6bf72;
+}
+
+.book-7 {
+    background-color: #136d69;
+}
+
+.book-8 {
+    background-color: #f2deb1;
 }
 
 .book-img {

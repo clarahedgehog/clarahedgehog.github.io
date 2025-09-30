@@ -99,28 +99,63 @@ h3 {
 }
 
 .book-1 {
-    background-color: #ea5453;
+    background-color: #d62d38;
 }
 
 .book-2 {
-    background-color: #cdd5d8;
+    background-color: #e0bb54;
 }
 
 .book-3 {
-    background-color: #028337;
+    background-color: #eec2f6;
 }
 
 .book-4 {
-    background: #25234A;
-    background: linear-gradient(9deg, rgba(33, 31, 69, 1) 0%, rgba(225, 24, 19, 1) 50%, rgba(242, 221, 82, 1) 100%);
+    background-color: #6f6638;
 }
 
 .book-5 {
-    background-color: #f51d1e;
+    background-color: #c69a6c;
 }
 
 .book-6 {
-    background-color: #f6bf72;
+    background-color: #88bab9;
+}
+
+.book-7 {
+    background-color: #e6d89d;
+}
+
+.book-8 {
+    background-color: #f1ec9b;
+}
+
+.book-9 {
+    background-color: #ff9f58;
+}
+
+.book-10 {
+    background-color: #67ceb7;
+}
+
+.book-11 {
+    background-color: #b476b0;
+}
+
+.book-12 {
+    background-color: #a5c966;
+}
+
+.book-13 {
+    background-color: #4e84ed;
+}
+
+.book-14 {
+    background-color: #ef682f;
+}
+
+.book-15 {
+    background-color: #c7ca62;
 }
 
 .book-img {
@@ -132,19 +167,6 @@ h3 {
 .book-img:hover {
     transform: scale(0.95);
     transition: 1s;
-}
-
-.stars {
-    display: flex;
-    flex-direction: row;
-    padding-top: 16px;
-    padding-bottom: 16px;
-}
-
-.star-full,
-.star-empty {
-    width: 20%;
-    height: auto;
 }
 
 .footer {
@@ -179,8 +201,15 @@ h3 {
 
     .flex-article {
         margin: 0;
-        flex: 30%;
+        flex: 20%;
         padding: 60px;
+    }
+
+    .article__title {
+        text-decoration: underline #151515;
+        text-underline-offset: 10px;
+        padding: 16px 0;
+        font-size: 1rem;
     }
 
 }
